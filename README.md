@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kemal Dencik</h1>
 
 # 💫 About Me:
-👨‍💻 I’m able to develop with Asp.Net Core Web API, Flutter & Postgre SQL<br><br>⚡ I’m currently working on React and React Native
+👨‍💻 I’m able to develop with Asp.Net Core Web API, Flutter, MsSQL & Postgre SQL<br><br>⚡ I’m currently working on React and React Native
 
 
 ## 🌐 Socials:
